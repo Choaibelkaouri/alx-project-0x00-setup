@@ -1,23 +1,14 @@
-# React Genesis: Mastering Next.js Setup
+# alx-project-0x00-setup
 
-This project is part of the ALX ProDev Frontend track.
+This project is a simple Next.js (Pages Router) + TypeScript + Tailwind CSS setup
+used for learning basic routing, components, and typing in React/Next.js.
 
-## Tech Stack
+Follow the ALX instructions to scaffold with:
 
-- Next.js 13+
-- TypeScript
-- Tailwind CSS
-- ESLint
+    npx create-next-app@latest alx-project-0x00 --typescript
 
-## How to run
+Then replace the files in your generated project with the ones from this archive
+(where paths match). You can also use this archive directly as a minimal project:
 
-```bash
-npm install
-npm run dev -- -p 3000
-```
-
-Then open:
-
-- http://localhost:3000
-- http://localhost:3000/landing
-- http://localhost:3000/about
+    npm install
+    npm run dev -- -p 3000
